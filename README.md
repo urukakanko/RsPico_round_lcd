@@ -94,7 +94,20 @@
 
 # 使用するツールやライブラリ
 
-ラズベリーパイPicoのArduino IDEへのインストールは、以下サイトを参考下さい。
+CircuitPython　や　Arduino IDEでの動作を確認しています。
+まず最初に以下のページでCircuitPythonのファームウェアをダウロードしてラズベリーパイPicoに書き込んで下さい。
+
+https://circuitpython.org/board/raspberry_pi_pico/
+（書き込み操作を間違えたりプログラムの不具合で動かなくなった場合、ファーウェアを書き直してみてください）
+
+
+
+CircuitPythonで動かす
+＊＊＊＊＊＊　準備中　＊＊＊＊＊＊
+
+
+
+ラズベリーパイPicoをArduino IDEで使用するためのインストールは、以下サイトを参考下さい。
 
 https://github.com/earlephilhower/arduino-pico
 
