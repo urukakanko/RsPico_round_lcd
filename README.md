@@ -102,15 +102,14 @@ https://circuitpython.org/board/raspberry_pi_pico/
 
 
 
-CircuitPythonで動かす
-＊＊＊＊＊＊　準備中　＊＊＊＊＊＊
-
-
-
 ラズベリーパイPicoをArduino IDEで使用するためのインストールは、以下サイトを参考下さい。
 
 https://github.com/earlephilhower/arduino-pico
 
+
+以下、Arduino IDEで動作させる場合のサンプルコードです
+
+https://github.com/urukakanko/RsPico_round_lcd/tree/main/RsPico_round_lcd_ClockSample
 
 
 グラフィックライブラリについては主にlovyan様のLovyanGFXにて動作確認をしています。
