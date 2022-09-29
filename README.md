@@ -112,7 +112,7 @@ https://github.com/earlephilhower/arduino-pico
 https://github.com/urukakanko/RsPico_round_lcd/tree/main/RsPico_round_lcd_ClockSample
 
 
-グラフィックライブラリについては主にlovyan様のLovyanGFXにて動作確認をしています。
+Arduino IDEでのグラフィックライブラリについては主にlovyan様のLovyanGFXにて動作確認をしています。
 
 https://github.com/lovyan03/LovyanGFX
 
