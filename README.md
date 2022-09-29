@@ -3,6 +3,7 @@
 ![](gaiken.jpg)
 ![](gaiken2.JPG)
 ![](gaiken3.JPG)
+
 ラズベリーパイPicoを使用して1.28インチ240ｘ240ドットの円形液晶を駆動する基板モジュールです。
 
 円形液晶の裏にラズベリーパイPicoを配置してしまいました。
@@ -99,6 +100,7 @@ CircuitPython　や　Arduino IDEでの動作を確認しています。
 まず最初に以下のページでCircuitPythonのファームウェアをダウロードしてラズベリーパイPicoに書き込んで下さい。
 
 https://circuitpython.org/board/raspberry_pi_pico/
+
 （書き込み操作を間違えたりプログラムの不具合で動かなくなった場合、ファーウェアを書き直してみてください）
 
 
