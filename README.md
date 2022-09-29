@@ -127,16 +127,7 @@ https://github.com/lovyan03/LovyanGFX
 
 # LCD表示動画
 
-準備中
-
-
-
-
-
-# 使用例
-
-準備中
-
+https://youtu.be/9OK_MoBfMhk
 
 
 
