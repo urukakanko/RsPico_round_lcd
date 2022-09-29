@@ -97,7 +97,7 @@
 # 使用するツールやライブラリ
 
 CircuitPython　や　Arduino IDEでの動作を確認しています。
-まず最初に以下のページでCircuitPythonのファームウェアをダウロードしてラズベリーパイPicoに書き込んで下さい。
+まず最初に以下のページでCircuitPythonのファームウェアをダウンロードしてラズベリーパイPicoに書き込んで下さい。
 
 https://circuitpython.org/board/raspberry_pi_pico/
 
