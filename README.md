@@ -130,6 +130,9 @@ https://github.com/lovyan03/LovyanGFX
 https://youtu.be/9OK_MoBfMhk
 
 
+# スイッチサイエンス　マーケットプレイスにて販売します
+
+（準備中）
 
 
 # 製作者
