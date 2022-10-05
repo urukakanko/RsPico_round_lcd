@@ -101,7 +101,7 @@ CircuitPython　や　Arduino IDEでの動作を確認しています。
 
 https://circuitpython.org/board/raspberry_pi_pico/
 
-（書き込み操作を間違えたりプログラムの不具合で動かなくなった場合、ファーウェアを書き直してみてください）
+（書き込み操作を間違えたりプログラムの不具合で動かなくなった場合、ファームウェアを書き直してみてください）
 
 
 
