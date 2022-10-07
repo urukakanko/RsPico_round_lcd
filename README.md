@@ -131,6 +131,27 @@ https://youtu.be/9OK_MoBfMhk
 
 
 
+# こちらもそーたメイ様のつくるっちに対応して頂きました
+
+http://sohta02.web.fc2.com/familyday.html
+
+![](tukurutti.png)
+
+![](kabocha.jpg)
+
+対応ファームはコチラです。予めラズベリーパイPicoに.uf2ファイルを書込んでください。
+
+https://github.com/urukakanko/RsPico_round_lcd/blob/main/src.ino.elf.uf2
+
+Chromeブラウザで以下つくるっち画面を開き「拡張機能を追加」から「M5Series」を追加してください
+
+https://sohta02.sakura.ne.jp/tukurutch/
+
+サンプルプログラムは以下です
+
+https://github.com/urukakanko/M5Stamp_round_lcd/blob/main/M5Stamp%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB_%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3.sb3
+
+
 # スイッチサイエンス　マーケットプレイスにて販売しています
 
 https://www.switch-science.com/products/8432/
