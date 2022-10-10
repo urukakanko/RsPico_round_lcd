@@ -94,7 +94,7 @@
 
 
 
-# 使用するツールやライブラリ
+# 使用するための準備
 
 CircuitPython　や　Arduino IDEでの動作を確認しています。
 まず最初に以下のページでCircuitPythonのファームウェアをダウンロードしてラズベリーパイPicoに書き込んで下さい。
@@ -105,7 +105,7 @@ https://circuitpython.org/board/raspberry_pi_pico/
 
 
 
-# ラズベリーパイPicoをArduino IDEで使用するためのインストール手順は、以下サイトを参考下さい。
+# Arduino IDEで使用するためのインストール手順は以下サイトを参考下さい。
 
 https://github.com/earlephilhower/arduino-pico
 
@@ -123,7 +123,7 @@ https://github.com/lovyan03/LovyanGFX
 
 
 
-# Circuit Pythonで画像表示させる方法
+# Circuit Pythonで画像表示させる手順とサンプル
 
 2か所のサイトからライブラリファイルの入手が必要となります。
 
