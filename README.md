@@ -151,6 +151,10 @@ https://github.com/urukakanko/RsPico_round_lcd/tree/main/RsPicocircuitpython_sam
 
 Circuit Pythonで動作させる場合の注意：バックライトLEDに使用しているポートGP10ですがエラー等でプログラムが中断した場合に不定状態となり、バックライトの点灯が不安定になる事があります。気になる場合は大変お手数ですがGP10を10KΩ程度でプルアップしてください。ポート不定時はバックライトが点灯状態になります。（次期改版で対応いたします）
 
+![](pullup.jpg)
+
+
+
 
 # LCD表示動画
 
