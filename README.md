@@ -110,19 +110,20 @@ https://circuitpython.org/board/raspberry_pi_pico/
 
 
 
-# Arduino IDEで使用するためのインストール手順は以下サイトを参考下さい。
+# Arduino IDEで使用するための手順
+
+以下サイトを参考にRaspberrypi Pico用のライブラリをインストールして下さい。
 
 https://github.com/earlephilhower/arduino-pico
-
-
-以下、Arduino IDEで動作させる場合のサンプルコードです
-
-https://github.com/urukakanko/RsPico_round_lcd/tree/main/RsPico_round_lcd_ClockSample
-
 
 Arduino IDEでのグラフィックライブラリについては主にlovyan様のLovyanGFXにて動作確認をしています。
 
 https://github.com/lovyan03/LovyanGFX
+
+以下、Arduino IDEで動作させる場合のサンプルコードです。
+
+https://github.com/urukakanko/RsPico_round_lcd/tree/main/RsPico_round_lcd_ClockSample
+
 
 他、GC9A01に対応したライブラリが使用可能と考えています。
 
