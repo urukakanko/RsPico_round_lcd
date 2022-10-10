@@ -105,7 +105,7 @@ https://circuitpython.org/board/raspberry_pi_pico/
 
 
 
-# ラズベリーパイPicoをArduino IDEで使用するためのインストール手順などは、以下サイトを参考下さい。
+# ラズベリーパイPicoをArduino IDEで使用するためのインストール手順は、以下サイトを参考下さい。
 
 https://github.com/earlephilhower/arduino-pico
 
@@ -122,25 +122,28 @@ https://github.com/lovyan03/LovyanGFX
 他、GC9A01に対応したライブラリが使用可能と考えています。
 
 
+
 # Circuit Pythonで画像表示させる方法
 
-2か所のサイトからライブラリファイルを入手します
+2か所のサイトからライブラリファイルの入手が必要となります。
 
-まず　Adafruit_CircuitPython_Bundle-7 を入手します
+まず　Adafruit_CircuitPython_Bundle-7 を入手します。
 
 https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20221007
 
-zipファイルを解凍して、libフォルダに保存されている「adafruit_imageload」フォルダをラズベリーパイPicoに出来ているLibフォルダにコピーします
+zipファイルを解凍して、libフォルダに保存されている「adafruit_imageload」フォルダをラズベリーパイPicoに出来ているLibフォルダにコピーします。
 
-次に　液晶ドライバGC9A01を駆動するためのファイルを入手するために、circuitpython-community-bundle-7　を入手します
+次に　液晶ドライバGC9A01を駆動するために、circuitpython-community-bundle-7　を入手します。
 
 https://github.com/adafruit/CircuitPython_Community_Bundle/releases/tag/20220924
 
-zipファイルを解凍して、libフォルダに保存されている「gc9a01.mpy」をフォルダをラズベリーパイPicoに出来ているLibフォルダにコピーします
+zipファイルを解凍して、libフォルダに保存されている「gc9a01.mpy」をラズベリーパイPicoに出来ているLibフォルダにコピーします
 
-サンプルコードは以下に保存しました。サンプルに使用するイメージデータはimageフォルダに保存していますので、フォルダごとラズベリーパイPicoにコピーして下さい
+サンプルコードは以下に保存しました。上記Libフォルダおよび表示するイメージデータを保存したimageフォルダも保存していますので、フォルダごとラズベリーパイPicoにコピーすると良いでしょう。なおadafruit_imageloadで表示可能なイメージデータは8bit（256色）bitmapです。　
 
 https://github.com/urukakanko/RsPico_round_lcd/tree/main/RsPicocircuitpython_sample
+
+Circuit Pythonで動作させる場合の注意：バックライトLEDに使用しているポートGP10ですがエラー等でプログラムが中断した場合に不定状態となり、バックライトの点灯が不安定になる事があります。気になる場合は大変お手数ですがGP10を10KΩ程度でプルアップしてください。ポート不定時に点灯状態になります。（次期改版で対応いたします）
 
 
 # LCD表示動画
