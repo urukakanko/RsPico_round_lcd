@@ -139,6 +139,8 @@ https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20221007
 
 zipファイルを解凍して、libフォルダに保存されている「adafruit_imageload」フォルダをラズベリーパイPicoに出来ているlibフォルダにコピーします。
 
+（サンプルはbitmap表示するだけですが、他の機能などは必要に応じてライブラリをコピーしてください）
+
 次に　液晶ドライバGC9A01を駆動するために、circuitpython-community-bundle-7　を入手します。
 
 https://github.com/adafruit/CircuitPython_Community_Bundle/releases/tag/20220924
